@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rafaga123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=issues,contribs&hide_rank=true" alt="Estadísticas de Rafaga123" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaga123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=css,html" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaga123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=css" alt="Lenguajes más usados" />
 </p>
 
 ---
